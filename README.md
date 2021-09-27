@@ -6,17 +6,6 @@
 
 Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
-
-## Live demo
-
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
-
-## Open PRO
-
-Looking for more pages and components? Have a look at the **premium version** here 👉️ [https://cruip.com/demos/open-pro/](https://cruip.com/demos/open-pro/)
-
-*The premium template is built on-the-top of [Tailwind CSS](https://tailwindcss.com/), and React components have been re-built from scratch.* 
 
 ## Table of contents
 
@@ -34,7 +23,6 @@ Looking for more pages and components? Have a look at the **premium version** he
     * [Deployment](#deployment)
     * [npm run build fails to minify](#npm-run-build-fails-to-minify)
   * [Google Analytics Setup](#google-analytics-setup)
-* [Credits](#credits)
 * [Terms and License](#terms-and-license)
 * [About Us](#about-us)
 * [Stay in the loop](#stay-in-the-loop)
@@ -119,22 +107,3 @@ This template uses the [React Google Analytics Module](https://github.com/react-
 
 In order to track visitors, you need to set an [environment variable](https://create-react-app.dev/docs/adding-custom-environment-variables/) called `REACT_APP_GA_CODE` storing your [GA Tracking ID](https://support.google.com/analytics/answer/7372977).
 
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-- [Unsplash](https://unsplash.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2020 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
