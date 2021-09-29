@@ -125,19 +125,19 @@ const Header = ({
                     )}
                   >
                     <li>
-                      <Link to="#Saas" onClick={closeMenu}>
+                      <a href="#Services" onClick={closeMenu}>
                         Saas Development
-                      </Link>
+                      </a>
                     </li>
                     <li>
-                      <Link to="#Web" onClick={closeMenu}>
+                      <a href="#Services" onClick={closeMenu}>
                         Web Development
-                      </Link>
+                      </a>
                     </li>
                     <li>
-                      <Link to="#Mobile" onClick={closeMenu}>
+                      <a href="#Services" onClick={closeMenu}>
                         Mobile Development
-                      </Link>
+                      </a>
                     </li>
                   </ul>
                   {
