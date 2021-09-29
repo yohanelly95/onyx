@@ -66,7 +66,7 @@ const Hero = ({
               Software Development for{" "}
               {/* <div className="change_outer">
                   <div className="change_inner">*/}
-              <div className="element text-color-primary">Custom Solutions</div>
+              <div className="element text-color-primary">Saas</div>
               {/*<div className="element text-color-primary">asd</div>
                     <div className="element text-color-primary">asdsf</div>
                     <div className="element text-color-primary">dsfs</div>
